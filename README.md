@@ -17,23 +17,7 @@ This is a console-based banking system written in C. It allows users to create a
 ### Prerequisites
 - C Compiler (e.g., GCC)
 
-### Running the Program
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/Simple-Banking-System.git
-    cd Simple-Banking-System
-    ```
-
-2. **Compile the code**:
-    ```bash
-    gcc -o banking_system main.c
-    ```
-
-3. **Run the program**:
-    ```bash
-    ./banking_system
-    ```
 
 
 
